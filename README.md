@@ -11,7 +11,9 @@ It will then appear, and can be enabled in the menu mentioned above
 
 ## Usage
 Launch Albert (Normally Super+Space)
+
 Type !g
+
 then type a query - anything after the space will be entered into google when you press enter
 
 ## Pull requests welcome
