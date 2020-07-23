@@ -9,6 +9,9 @@ The easiest way to access this folder is to open Albert pyton extsion list in th
 ## Pull requests welcome
 As well as requets for extension
 
+## Images
+![Example of Google search in Albert](https://user-images.githubusercontent.com/9614541/88280117-2b07ed80-ccdd-11ea-9ac5-d8964ef58457.png)
+
 ## References
 [https://albertlauncher.github.io/](https://albertlauncher.github.io/)
 
